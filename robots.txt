@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohduujacu.huangweiran.club/sitemap.xml
